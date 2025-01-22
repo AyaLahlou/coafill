@@ -133,7 +133,7 @@ def _get_coauthors_from_pubs(
 
         all_coauthors.extend(coauthors)
         
-        break
+        #break #test for one publication
 
     # De-duplicate list of co-authors and remove your own name
     
